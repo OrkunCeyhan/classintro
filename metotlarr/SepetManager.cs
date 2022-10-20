@@ -10,7 +10,7 @@ namespace metotlarr
     {
         public void Ekle(Urun asd)
         {
-            Console.WriteLine("TEBRİKLERR sepete eklendi : " +asd.Adi);
+            Console.WriteLine("TEBRİKLERR sepete eklendiii : " +asd.Adi);
         }
         public void ekle2(string urunadi, string acıklama, double fiyat,int stokadet)
         {
